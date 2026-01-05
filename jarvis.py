@@ -650,12 +650,9 @@ class NetTools:
         return "Download initiated in background."
 
 # ==============================================================================
-# 🧠 SECTOR 8: CENTRAL INTELLIGENCE (BRAIN V2)
-# ==============================================================================
-
-# ==============================================================================
 # 🧠 SECTOR 8: CENTRAL INTELLIGENCE (BRAIN V2 + EMOTIONS)
 # ==============================================================================
+#this is all intelligence 🧠 
 
 class JarvisBrain:
     def __init__(self, gui_ref=None):
